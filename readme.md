@@ -26,7 +26,7 @@ pip install line-bot-sdk
 ## 初次建構的環境需求
 需要透過此範例架設Line聊天機器人，必須準備好以下步驟
 
-1. 安裝line-bot-sdk請下`pip install line-bot-sdk`
+1. 安裝line-bot-sdk請下`pip install line-bot-sdk` Or `pip install -r requirements.txt`
 2. 安裝[Git](https://git-scm.com/)
 3. 註冊[Heroku](https://dashboard.heroku.com/)帳號並安裝[Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 4. 註[Line開發者帳號](https://developers.line.me/en/)，並替你的機器人建立頻道
