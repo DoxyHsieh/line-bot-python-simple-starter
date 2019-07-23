@@ -27,8 +27,8 @@ print("[程式開始運行]")
 # 設定linebot messeging API的access token與channel secret
 # 相關訊息進入網址(https://developers.line.me/console/)
 # 登入選擇Messaging API建立後即可取得channel secret與access token
-CHANNEL_ACCESS_TOKEN = '請將此字串置換成你的 CHANNEL_ACCESS_TOKEN'
-CHANNEL_SECRET = '請將此字串置換成你的 CHANNEL_SECRET'
+CHANNEL_ACCESS_TOKEN = 'okugkNCqw2c4QHJaEUMs2GR92tWHKCyNO+EBrC2GPN2mx7exitujneaDuWErREnBR1en+l0UcQxS3/5ygj+akpwFQ4u4QmTYZg13MK38M+zbN1PQ/CLl7XIFdzZZWs9RUoygA3sYQ/+jDGaePAFvIwdB04t89/1O/w1cDnyilFU='
+CHANNEL_SECRET = 'fea42f2ed30ddef9f2597311634a4d39'
 
 
 # ================== 以下為 X-LINE-SIGNATURE 驗證程序 ==================
