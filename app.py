@@ -81,6 +81,9 @@ def handle_message(event):
     # HINT: TextSendMessage(text="機器人要回傳給使用者的訊息")
     reply = TextSendMessage(text='Hello!')
 
+    if event.message.text == 'weather' | event.message.text == '天氣':
+        reply = TextSendMessage(text='Asking weather')
+
     # 回傳訊息
     line_bot_api.reply_message(
         event.reply_token,
